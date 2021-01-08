@@ -28,7 +28,7 @@ namespace Loans.Tests
         [Test]
         public void storeYears()
         {
-
+            //why is this accessing constructor?
             var sut = new LoanTerm(1);
 
             //Act: call method, set property, etc.
