@@ -29,7 +29,7 @@ namespace Loans.Tests
         public void storeYears()
         {
             //why is this accessing constructor?
-            var sut = new LoanTerm(1);
+            var sut = new LoanTerm(12);
 
             //Act: call method, set property, etc.
 
@@ -38,8 +38,13 @@ namespace Loans.Tests
             //Assert: compare returned value/end state with expected
 
             Assert.That(sut.Years, Is.EqualTo(12));
-            //working on TSQL
-            //Will pick up NUnit work here
+           
+            //Signs of good tests:
+            //Fast - We want immediate feedback on system functionality
+            //Repeatable - Result should always be the same w/same circum.
+            //Isolated - Should not require another test run before it
+            //Trustworthy - trust test results
+            //Valuable - writing for sake of it, or getting value?
         }
         
     }
