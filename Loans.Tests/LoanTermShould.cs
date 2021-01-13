@@ -47,5 +47,8 @@ namespace Loans.Tests
             //Valuable - writing for sake of it, or getting value?
         }
         
+        //Constraint Model of Assertions (Newer)
+        //Assert.That(sut.Years, Is.EqualTo(1));
+        //Assert.That(test result, constraint instance);
     }
 }
