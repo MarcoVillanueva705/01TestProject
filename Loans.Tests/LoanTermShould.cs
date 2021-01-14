@@ -50,5 +50,6 @@ namespace Loans.Tests
         //Constraint Model of Assertions (Newer)
         //Assert.That(sut.Years, Is.EqualTo(1));
         //Assert.That(test result, constraint instance);
+        //Asserting on Equality
     }
 }
