@@ -46,6 +46,14 @@ namespace Loans.Tests
             //Trustworthy - trust test results
             //Valuable - writing for sake of it, or getting value?
         }
+        [Test]
+        public void RespectValueEquality()
+        {
+            var a = new LoanTerm(1);
+            var b = new LoanTerm(1);
+
+            Assert.That(a, Is.EqualTo(b));
+        }
         
         //Constraint Model of Assertions (Newer)
         //Assert.That(sut.Years, Is.EqualTo(1));
