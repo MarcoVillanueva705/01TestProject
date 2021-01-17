@@ -20,7 +20,8 @@ namespace Loans.Tests
 
             //constraint model of assertions
             //Assert.That(test result, constraint instance)
-            Assert.That(sut.ToMonths(), Is.EqualTo(24));  //Assert
+            //You may also add custom Throw Error Messages
+            Assert.That(sut.ToMonths(), Is.EqualTo(12), "Months should be 12 * Number of Years!");  //Assert
 
             //Arrange: set up test object(s), initialize test data, thing
             //we want to test
@@ -77,16 +78,19 @@ namespace Loans.Tests
             var b = a;
             var c = new LoanTerm(1);
 
-        //SameAs method points to references,
-        //not values; the below fails
-           Assert.That(a, Is.SameAs(c));
-           Assert.That(b, Is.SameAs(c));
+        //SameAs method points to references, not values.
+        //The below passes
+           Assert.That(a, Is.SameAs(b));
+           Assert.That(b, Is.Not.SameAs(c));
+        //the below fails
+        //Assert.That(b, Is.SameAs(c));
 
-        //Is.EqualTo would pass because LoanTerm
-        //overrides the EqualsTo method
 
-        //SameAs method only going to compare
-        //references, and that's why it fails
+            //Is.EqualTo would pass because LoanTerm
+            //overrides the EqualsTo method
+
+            //SameAs method only going to compare
+            //references, and that's why it fails
         }
     }
 }
