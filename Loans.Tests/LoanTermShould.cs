@@ -54,10 +54,39 @@ namespace Loans.Tests
 
             Assert.That(a, Is.EqualTo(b));
         }
+
+        [Test]
+        public void RespectValueInequality()
+        {
+            var a = new LoanTerm(2);
+            var b = new LoanTerm(3);
+
+            Assert.That(a, Is.Not.EqualTo(b));
+       
+        }
         
         //Constraint Model of Assertions (Newer)
         //Assert.That(sut.Years, Is.EqualTo(1));
         //Assert.That(test result, constraint instance);
         //Asserting on Equality
+
+        [Test]
+        public void RefEqualExample()
+        {
+            var a = new LoanTerm(1);
+            var b = a;
+            var c = new LoanTerm(1);
+
+        //SameAs method points to references,
+        //not values; the below fails
+           Assert.That(a, Is.SameAs(c));
+           Assert.That(b, Is.SameAs(c));
+
+        //Is.EqualTo would pass because LoanTerm
+        //overrides the EqualsTo method
+
+        //SameAs method only going to compare
+        //references, and that's why it fails
+        }
     }
 }
