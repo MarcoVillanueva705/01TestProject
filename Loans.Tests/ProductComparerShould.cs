@@ -29,6 +29,7 @@ namespace Loans.Tests
             //the Has helper class
             //var sut has 'products' list passed as param
             Assert.That(compare, Has.Exactly(1).Items);
+            //was studying SQL
         }
     }
 }
