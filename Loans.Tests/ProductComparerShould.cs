@@ -55,6 +55,9 @@ namespace Loans.Tests
             //**Below tests if list of items are unique**
             Assert.That(compare, Is.Unique);
             //was studying SQL
+            //figured out what "sut" is:
+            //we are comparing a loan amount, the list of products
+            //and class Product Comparer stored in "sut" and its' Loan Term property
         }
 
     }
