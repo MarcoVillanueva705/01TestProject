@@ -53,12 +53,15 @@ namespace Loans.Tests
             //the Has helper class
             //var sut has 'products' list passed as param
             //**Below tests if list of items are unique**
-            Assert.That(compare, Is.Unique);
+            //Assert.That(compare, Is.Unique);
             //was studying SQL
             //figured out what "sut" is:
             //we are comparing a loan amount, the list of products
             //and class Product Comparer stored in "sut" and its' Loan Term property
+            Assert.That(compare, Has.Exactly(1).Items);
+            //^^How is 'compare' the list of products?^^
         }
+
 
     }
 }
