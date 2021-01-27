@@ -60,7 +60,11 @@ namespace Loans.Tests
             //and class Product Comparer stored in "sut" and its' Loan Term property
             Assert.That(compare, Has.Exactly(1).Items);
             //^^How is 'compare' the list of products?^^
+            //Answer: b/c new instance of ProductComparer ctor takes
+            //two parameters: LoanAmt and list of products
+            //both private fields, but accessible through public ctor
         }
+
 
 
     }
