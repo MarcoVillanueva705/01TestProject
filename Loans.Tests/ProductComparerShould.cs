@@ -65,6 +65,33 @@ namespace Loans.Tests
             //both private fields, but accessible through public ctor
         }
 
+        [Test]
+        public void ReturnFirstProdCompare_WithPartialKnownExpectedVals()
+        {
+            var products = new List<LoanProduct>()
+            {
+            
+                //we expect one product in the 
+                //comparison output
+            new LoanProduct(1, "a", 1)
+            };
+            //ProductComparer has a number of params to provide
+            //in the constructor; 200K decimal literal (hence the 'm')
+            var sut = new ProductComparer(new LoanAmount("USD", 200_000m), products);
+
+
+            List<MonthlyRepaymentComparison> compare = sut.CompareMonthlyRepayments(new LoanTerm(30));
+
+            //'Has' is aka helper class
+            Assert.That(compare, Has.Exactly(1)
+                .Property("ProductName").EqualTo("a")
+                    .And //called a 'modifier'
+                .Property("InterestRate").EqualTo(1)
+                    .And
+                    //don't know where in LoanProduct does MonthlyRepayment
+                    //come from
+                    .Property("MonthlyRepayment").GreaterThanOrEqualTo(0));
+        }
 
 
     }
