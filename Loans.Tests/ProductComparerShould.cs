@@ -92,6 +92,7 @@ namespace Loans.Tests
                     //come from
                     .Property("MonthlyRepayment").GreaterThanOrEqualTo(0));
             //was studying SPs in SQL
+            //SP coursework tomorrow
         }
 
 
