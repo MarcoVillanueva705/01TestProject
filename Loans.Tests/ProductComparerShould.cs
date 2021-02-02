@@ -93,6 +93,7 @@ namespace Loans.Tests
                     .Property("MonthlyRepayment").GreaterThanOrEqualTo(0));
             //was studying SPs in SQL
             //SP coursework tomorrow
+            //SQL Server Functions
         }
 
 
