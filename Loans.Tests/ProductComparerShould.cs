@@ -96,6 +96,7 @@ namespace Loans.Tests
             //SQL Server Functions
             //Output parameters SPs
             //ContactId
+            //Output param notes
         }
 
 
