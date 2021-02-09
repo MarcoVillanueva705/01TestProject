@@ -99,6 +99,7 @@ namespace Loans.Tests
             //Output param notes
             //work more on SPs tomorrow
             //worked on chaining procedures
+            //IF EXISTS clause
         }
 
 
