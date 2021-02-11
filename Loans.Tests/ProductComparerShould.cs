@@ -101,6 +101,7 @@ namespace Loans.Tests
             //worked on chaining procedures
             //IF EXISTS clause
             //reviewed power apps
+            //Adding business logic to SPs
         }
 
 
