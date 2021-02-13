@@ -103,6 +103,7 @@ namespace Loans.Tests
             //reviewed power apps
             //Adding business logic to SPs
             //notes for SP tomorrow
+            //worked on SPs earlier; combine notes
         }
 
 
