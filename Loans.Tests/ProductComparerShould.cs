@@ -104,6 +104,7 @@ namespace Loans.Tests
             //Adding business logic to SPs
             //notes for SP tomorrow
             //worked on SPs earlier; combine notes
+            //SP notes on debugging
         }
 
 
