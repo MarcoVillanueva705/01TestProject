@@ -107,6 +107,7 @@ namespace Loans.Tests
             //SP notes on debugging
             //Troubleshooting notes
             //translated the SP for city and street
+            //finished up PRINT statement section
         }
 
 
