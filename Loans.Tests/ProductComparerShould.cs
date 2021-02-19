@@ -108,6 +108,7 @@ namespace Loans.Tests
             //Troubleshooting notes
             //translated the SP for city and street
             //finished up PRINT statement section
+            //Began TRY CATCH segment of course
         }
 
 
