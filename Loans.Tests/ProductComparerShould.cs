@@ -110,6 +110,7 @@ namespace Loans.Tests
             //finished up PRINT statement section
             //Began TRY CATCH segment of course
             //continue TRY CATCH 2/21
+            //interpret code in TRY CATCH block
         }
 
 
