@@ -111,6 +111,7 @@ namespace Loans.Tests
             //Began TRY CATCH segment of course
             //continue TRY CATCH 2/21
             //interpret code in TRY CATCH block
+            //Defensive coding
         }
 
 
