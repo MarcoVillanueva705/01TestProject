@@ -112,6 +112,7 @@ namespace Loans.Tests
             //continue TRY CATCH 2/21
             //interpret code in TRY CATCH block
             //Defensive coding
+            //why move commit transaction?
         }
 
 
