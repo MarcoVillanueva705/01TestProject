@@ -114,6 +114,7 @@ namespace Loans.Tests
             //Defensive coding
             //why move commit transaction?
             //review of SQL notes
+            //relational DBs
         }
 
 
