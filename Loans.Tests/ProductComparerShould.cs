@@ -115,6 +115,7 @@ namespace Loans.Tests
             //why move commit transaction?
             //review of SQL notes
             //relational DBs
+            //studied classes in c#
         }
 
 
