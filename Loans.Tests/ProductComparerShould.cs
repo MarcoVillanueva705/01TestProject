@@ -116,6 +116,7 @@ namespace Loans.Tests
             //review of SQL notes
             //relational DBs
             //studied classes in c#
+            //NUnit 3 review
         }
 
 
