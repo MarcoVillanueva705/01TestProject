@@ -118,6 +118,7 @@ namespace Loans.Tests
             //studied classes in c#
             //NUnit 3 review
             //more NUnit 3 
+            //Querying data with T-SQL
         }
 
 
