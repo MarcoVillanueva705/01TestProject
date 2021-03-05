@@ -120,6 +120,7 @@ namespace Loans.Tests
             //more NUnit 3 
             //Querying data with T-SQL
             //more SQL review
+            //code a long SQL
         }
 
 
