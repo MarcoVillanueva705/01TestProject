@@ -121,6 +121,7 @@ namespace Loans.Tests
             //Querying data with T-SQL
             //more SQL review
             //code a long SQL
+            // powerApps study
         }
 
 
