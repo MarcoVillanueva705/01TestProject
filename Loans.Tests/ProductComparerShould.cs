@@ -122,6 +122,7 @@ namespace Loans.Tests
             //more SQL review
             //code a long SQL
             // powerApps study
+            //tutorial on SPs 
         }
 
 
