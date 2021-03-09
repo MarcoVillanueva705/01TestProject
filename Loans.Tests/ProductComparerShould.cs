@@ -123,6 +123,7 @@ namespace Loans.Tests
             //code a long SQL
             // powerApps study
             //tutorial on SPs 
+            //MS Power Apps
         }
 
 
