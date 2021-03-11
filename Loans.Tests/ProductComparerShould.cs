@@ -125,7 +125,8 @@ namespace Loans.Tests
             //tutorial on SPs 
             //MS Power Apps
             //DB security notes
-        }
+        }   //more auth notes
+        
 
 
     }
