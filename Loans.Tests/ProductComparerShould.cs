@@ -128,6 +128,7 @@ namespace Loans.Tests
         }   //more auth notes
         //SQL practice notes
         //more SQL tomorrow
+        //intermediate SQL statments
         
 
 
