@@ -129,6 +129,7 @@ namespace Loans.Tests
         //SQL practice notes
         //more SQL tomorrow
         //intermediate SQL statments
+        //SQL intermediate quiz 2.0
         
 
 
