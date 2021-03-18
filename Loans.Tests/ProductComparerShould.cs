@@ -131,6 +131,7 @@ namespace Loans.Tests
         //intermediate SQL statments
         //SQL intermediate quiz 2.0
         //worked on SQL
+        //SQL injection
         
 
 
