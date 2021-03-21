@@ -133,6 +133,7 @@ namespace Loans.Tests
         //worked on SQL
         //SQL injection
         //SP best practices
+        //worked on RD cover letter
         
 
 
