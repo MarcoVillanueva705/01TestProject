@@ -135,6 +135,7 @@ namespace Loans.Tests
         //SP best practices
         //worked on RD cover letter
         //worked on ?s for RD
+        //studied FKs and PKs in SQL
         
 
 
