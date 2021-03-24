@@ -136,6 +136,7 @@ namespace Loans.Tests
         //worked on RD cover letter
         //worked on ?s for RD
         //studied FKs and PKs in SQL
+        //SQL JOINS
         
 
 
