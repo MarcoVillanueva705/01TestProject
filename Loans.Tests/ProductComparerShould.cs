@@ -137,6 +137,7 @@ namespace Loans.Tests
         //worked on ?s for RD
         //studied FKs and PKs in SQL
         //SQL JOINS
+        //SQL joining tables without JOINS
         
 
 
