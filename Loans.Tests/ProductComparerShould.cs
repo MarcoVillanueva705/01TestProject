@@ -140,6 +140,7 @@ namespace Loans.Tests
         //SQL joining tables without JOINS
         //SQL exercises
         //ORDER BY VS GROUP BY SQL
+        //JOINS andd GROUP vs ORDER
         
 
 
