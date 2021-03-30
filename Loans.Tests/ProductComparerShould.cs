@@ -141,6 +141,7 @@ namespace Loans.Tests
         //SQL exercises
         //ORDER BY VS GROUP BY SQL
         //JOINS andd GROUP vs ORDER
+        //aggregate functions
         
 
 
