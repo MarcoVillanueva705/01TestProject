@@ -144,6 +144,7 @@ namespace Loans.Tests
         //aggregate functions
         //more SQL queries
         //more SQL practice
+        //SQL sub-queries
         
 
 
