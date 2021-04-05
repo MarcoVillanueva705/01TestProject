@@ -146,6 +146,7 @@ namespace Loans.Tests
         //more SQL practice
         //SQL sub-queries
         //more sub-query exercises
+        //SQL flashcards
         
 
 
