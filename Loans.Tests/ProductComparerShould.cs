@@ -147,7 +147,8 @@ namespace Loans.Tests
         //SQL sub-queries
         //more sub-query exercises
         //SQL flashcards
-        //notes on GROUP BY vs ORDER BY       
+        //notes on GROUP BY vs ORDER BY   
+        //SQL flashcards
 
 
     }
