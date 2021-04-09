@@ -149,6 +149,7 @@ namespace Loans.Tests
         //SQL flashcards
         //notes on GROUP BY vs ORDER BY   
         //SQL flashcards
+        //studied SQL FCs and practice queries
 
 
     }
