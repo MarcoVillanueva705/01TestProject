@@ -151,6 +151,7 @@ namespace Loans.Tests
         //SQL flashcards
         //studied SQL FCs and practice queries
         //SQL 2x ORDER BY
+        //SQL flashcards/SELECTS
 
 
     }
