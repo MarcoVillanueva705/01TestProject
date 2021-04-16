@@ -152,7 +152,7 @@ namespace Loans.Tests
         //studied SQL FCs and practice queries
         //SQL 2x ORDER BY
         //SQL flashcards/SELECTS
-
+        //INNER JOIN/SELECT review
 
     }
 }
