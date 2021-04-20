@@ -153,6 +153,7 @@ namespace Loans.Tests
         //SQL 2x ORDER BY
         //SQL flashcards/SELECTS
         //INNER JOIN/SELECT review
+        //SQL flashcards
 
     }
 }
