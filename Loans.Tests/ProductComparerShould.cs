@@ -154,6 +154,7 @@ namespace Loans.Tests
         //SQL flashcards/SELECTS
         //INNER JOIN/SELECT review
         //SQL flashcards
+        //JOINS and MISC review
 
     }
 }
