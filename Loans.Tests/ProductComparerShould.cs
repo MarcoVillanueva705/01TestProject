@@ -156,6 +156,6 @@ namespace Loans.Tests
         //SQL flashcards
         //JOINS and MISC review
         //SQL for work
-
+        //Self JOINS
     }
 }
