@@ -157,5 +157,7 @@ namespace Loans.Tests
         //JOINS and MISC review
         //SQL for work
         //Self JOINS
+        //SQL practice and Power Apps
+       
     }
 }
