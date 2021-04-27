@@ -158,6 +158,7 @@ namespace Loans.Tests
         //SQL for work
         //Self JOINS
         //SQL practice and Power Apps
+        //more SQL tomorrow
        
     }
 }
