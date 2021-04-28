@@ -126,39 +126,39 @@ namespace Loans.Tests
             //MS Power Apps
             //DB security notes
         }   //more auth notes
-        //SQL practice notes
-        //more SQL tomorrow
-        //intermediate SQL statments
-        //SQL intermediate quiz 2.0
-        //worked on SQL
-        //SQL injection
-        //SP best practices
-        //worked on RD cover letter
-        //worked on ?s for RD
-        //studied FKs and PKs in SQL
-        //SQL JOINS
-        //SQL joining tables without JOINS
-        //SQL exercises
-        //ORDER BY VS GROUP BY SQL
-        //JOINS andd GROUP vs ORDER
-        //aggregate functions
-        //more SQL queries
-        //more SQL practice
-        //SQL sub-queries
-        //more sub-query exercises
-        //SQL flashcards
-        //notes on GROUP BY vs ORDER BY   
-        //SQL flashcards
-        //studied SQL FCs and practice queries
-        //SQL 2x ORDER BY
-        //SQL flashcards/SELECTS
-        //INNER JOIN/SELECT review
-        //SQL flashcards
-        //JOINS and MISC review
-        //SQL for work
-        //Self JOINS
-        //SQL practice and Power Apps
-        //more SQL tomorrow
-       
+            //SQL practice notes
+            //more SQL tomorrow
+            //intermediate SQL statments
+            //SQL intermediate quiz 2.0
+            //worked on SQL
+            //SQL injection
+            //SP best practices
+            //worked on RD cover letter
+            //worked on ?s for RD
+            //studied FKs and PKs in SQL
+            //SQL JOINS
+            //SQL joining tables without JOINS
+            //SQL exercises
+            //ORDER BY VS GROUP BY SQL
+            //JOINS andd GROUP vs ORDER
+            //aggregate functions
+            //more SQL queries
+            //more SQL practice
+            //SQL sub-queries
+            //more sub-query exercises
+            //SQL flashcards
+            //notes on GROUP BY vs ORDER BY   
+            //SQL flashcards
+            //studied SQL FCs and practice queries
+            //SQL 2x ORDER BY
+            //SQL flashcards/SELECTS
+            //INNER JOIN/SELECT review
+            //SQL flashcards
+            //JOINS and MISC review
+            //SQL for work
+            //Self JOINS
+            //SQL practice and Power Apps
+            //more SQL tomorrow
+            //Reporting Services Report Development
     }
 }
