@@ -164,5 +164,6 @@ namespace Loans.Tests
            //more SSRS
            //reconnect GitHub for test Report
            //SQL data sets
+           //Report items
     }
 }
