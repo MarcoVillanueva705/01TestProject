@@ -173,6 +173,7 @@ namespace Loans.Tests
            //SSRS part 1
            //SQL review Order of Operations
            //SQL SSRS review
+           //ORDER BY VS GROUP BY
     }
 
 }
