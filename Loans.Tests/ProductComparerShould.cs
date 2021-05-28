@@ -177,6 +177,7 @@ namespace Loans.Tests
            //AVG BETWEEN and ORDER BY
            //SQL #Temp Tables
            //Creating adjacent groups
+           //Expressions SQL
     }
 
 }
