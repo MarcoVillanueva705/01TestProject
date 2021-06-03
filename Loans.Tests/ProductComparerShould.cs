@@ -160,27 +160,28 @@ namespace Loans.Tests
             //SQL practice and Power Apps
             //more SQL tomorrow
             //Reporting Services Report Development
-           // SSRS cont.
-           //more SSRS
-           //reconnect GitHub for test Report
-           //SQL data sets
-           //Report items
-           //Data Regions
-           //Matrix and Lists SSRDS
-           //SSRDS rows and columns
-           //working with Tablix
-           //matrix vs tables
-           //SSRS part 1
-           //SQL review Order of Operations
-           //SQL SSRS review
-           //ORDER BY VS GROUP BY
-           //AVG BETWEEN and ORDER BY
-           //SQL #Temp Tables
-           //Creating adjacent groups
-           //Expressions SQL notes
-           //Tablix row groups
-           //matric grouping
+            // SSRS cont.
+            //more SSRS
+            //reconnect GitHub for test Report
+            //SQL data sets
+            //Report items
+            //Data Regions
+            //Matrix and Lists SSRDS
+            //SSRDS rows and columns
+            //working with Tablix
+            //matrix vs tables
+            //SSRS part 1
+            //SQL review Order of Operations
+            //SQL SSRS review
+            //ORDER BY VS GROUP BY
+            //AVG BETWEEN and ORDER BY
+            //SQL #Temp Tables
+            //Creating adjacent groups
+            //Expressions SQL notes
+            //Tablix row groups
+            //matrices grouping
+            //expressions
 
     }
-
-
+}
+_
