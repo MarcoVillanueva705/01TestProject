@@ -184,6 +184,7 @@ namespace Loans.Tests
             //row groups expressions
             //Report exrpressions
             //more SQL exrpressions
+            //Aggregate functions
 
     }
 }
