@@ -193,6 +193,7 @@ namespace Loans.Tests
             //configuring a dril-through
             //parameters in expressions
             //cascading parameters
+            //connecting a report to a query parameter
     }
 }
 
