@@ -196,6 +196,7 @@ namespace Loans.Tests
             //connecting a report to a query parameter
             //Reporting Services Report Development Fundamentals - Part 1
             //Intro to SQL
+           //SELECT List wild cards
     }
 }
 
