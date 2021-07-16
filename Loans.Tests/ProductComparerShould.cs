@@ -197,6 +197,7 @@ namespace Loans.Tests
             //Reporting Services Report Development Fundamentals - Part 1
             //Intro to SQL
            //SELECT List wild cards
+           //SQL DISTINCT keyword
     }
 }
 
