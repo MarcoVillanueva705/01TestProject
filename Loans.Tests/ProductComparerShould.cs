@@ -198,6 +198,7 @@ namespace Loans.Tests
             //Intro to SQL
            //SELECT List wild cards
            //SQL DISTINCT keyword
+           //WHERE clause and BOOLEANs
     }
 }
 
