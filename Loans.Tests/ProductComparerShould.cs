@@ -199,6 +199,8 @@ namespace Loans.Tests
            //SELECT List wild cards
            //SQL DISTINCT keyword
            //WHERE clause and BOOLEANs
+           //AND & OR Operators
     }
+    
 }
 
