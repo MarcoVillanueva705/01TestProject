@@ -200,6 +200,7 @@ namespace Loans.Tests
            //SQL DISTINCT keyword
            //WHERE clause and BOOLEANs
            //AND & OR Operators
+           //SQL BETWEEN Operator
     }
     
 }
