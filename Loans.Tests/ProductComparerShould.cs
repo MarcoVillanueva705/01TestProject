@@ -201,6 +201,7 @@ namespace Loans.Tests
            //WHERE clause and BOOLEANs
            //AND & OR Operators
            //SQL BETWEEN Operator
+           //NULL, NOT NULL, IS, LIKE and IN Operators
     }
     
 }
