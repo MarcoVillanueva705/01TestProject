@@ -202,6 +202,7 @@ namespace Loans.Tests
            //AND & OR Operators
            //SQL BETWEEN Operator
            //NULL, NOT NULL, IS, LIKE and IN Operators
+           //SQL ORDER BY keyword
     }
     
 }
