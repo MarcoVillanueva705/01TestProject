@@ -203,6 +203,7 @@ namespace Loans.Tests
            //SQL BETWEEN Operator
            //NULL, NOT NULL, IS, LIKE and IN Operators
            //SQL ORDER BY keyword
+           //CTE (Common Table Expressions)
     }
     
 }
