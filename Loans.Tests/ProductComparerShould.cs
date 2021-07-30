@@ -204,6 +204,7 @@ namespace Loans.Tests
            //NULL, NOT NULL, IS, LIKE and IN Operators
            //SQL ORDER BY keyword
            //CTE (Common Table Expressions)
+           //SET functions
     }
     
 }
