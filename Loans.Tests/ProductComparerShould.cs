@@ -205,6 +205,7 @@ namespace Loans.Tests
            //SQL ORDER BY keyword
            //CTE (Common Table Expressions)
            //SET functions
+           //GROUP BY intro
     }
     
 }
