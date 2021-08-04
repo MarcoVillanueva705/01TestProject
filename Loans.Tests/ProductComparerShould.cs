@@ -206,6 +206,7 @@ namespace Loans.Tests
            //CTE (Common Table Expressions)
            //SET functions
            //GROUP BY intro
+           //GROUP BY cont.
     }
     
 }
