@@ -207,6 +207,7 @@ namespace Loans.Tests
            //SET functions
            //GROUP BY intro
            //GROUP BY cont.
+           //HAVING SET function; GROUP BY
     }
     
 }
