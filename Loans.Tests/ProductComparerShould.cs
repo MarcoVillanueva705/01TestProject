@@ -211,6 +211,7 @@ namespace Loans.Tests
            //HAVING keyword cont.
            //CROSS, INNER, OUTER, LEFT, RIGHT JOIN
            //OUTER and SELF JOINS
+           //CREATE DB and Tables
     }
     
 }
