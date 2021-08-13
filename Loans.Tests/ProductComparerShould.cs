@@ -212,6 +212,7 @@ namespace Loans.Tests
            //CROSS, INNER, OUTER, LEFT, RIGHT JOIN
            //OUTER and SELF JOINS
            //CREATE DB and Tables
+           //DEMO CREATE DB, Tables and Columns
     }
     
 }
