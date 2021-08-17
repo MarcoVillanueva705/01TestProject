@@ -214,6 +214,7 @@ namespace Loans.Tests
            //CREATE DB and Tables
            //DEMO CREATE DB, Tables and Columns
            //CREATE, DROP, ALTER Table
+           //SQL Server Querying
     }
     
 }
