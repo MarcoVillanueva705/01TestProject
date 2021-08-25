@@ -216,6 +216,7 @@ namespace Loans.Tests
            //CREATE, DROP, ALTER Table
            //SQL Server Querying
            //SQL Querying Intro to Relational DBs
+           //Table relationship types
     }
     
 }
