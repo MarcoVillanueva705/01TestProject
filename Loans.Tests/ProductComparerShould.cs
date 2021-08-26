@@ -217,6 +217,7 @@ namespace Loans.Tests
            //SQL Server Querying
            //SQL Querying Intro to Relational DBs
            //Table relationship types
+           //Relational DB design
     }
     
 }
