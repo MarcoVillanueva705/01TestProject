@@ -219,6 +219,7 @@ namespace Loans.Tests
            //Table relationship types
            //Relational DB design
            //Orders and Products design
+           //Using SELECT statements
     }
     
 }
