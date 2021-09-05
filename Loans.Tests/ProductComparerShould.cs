@@ -220,6 +220,7 @@ namespace Loans.Tests
            //Relational DB design
            //Orders and Products design
            //Using SELECT statements
+           //WHERE and Predicate statements
     }
     
 }
