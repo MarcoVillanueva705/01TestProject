@@ -222,6 +222,7 @@ namespace Loans.Tests
            //Using SELECT statements
            //WHERE and Predicate statements
            //JOIN statements and syntax
+           //JOIN basics
     }
     
 }
