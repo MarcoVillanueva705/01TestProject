@@ -225,6 +225,7 @@ namespace Loans.Tests
            //JOIN basics
            //LEFT, RIGHT, INNER JOINS
            //Sub-queries
+           //GROUP BY
     }
     
 }
