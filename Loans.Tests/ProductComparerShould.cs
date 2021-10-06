@@ -227,6 +227,7 @@ namespace Loans.Tests
            //Sub-queries
            //GROUP BY
            //GROUP BY continued
+           //HAVING vs WHERE
     }
     
 }
