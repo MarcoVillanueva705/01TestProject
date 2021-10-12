@@ -229,6 +229,7 @@ namespace Loans.Tests
            //GROUP BY continued
            //HAVING vs WHERE
            //data rollups/grouping sets
+           //ranking functions
     }
     
 }
