@@ -230,6 +230,7 @@ namespace Loans.Tests
            //HAVING vs WHERE
            //data rollups/grouping sets
            //ranking functions
+           //PA getting started
     }
     
 }
