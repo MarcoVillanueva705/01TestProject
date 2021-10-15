@@ -231,6 +231,7 @@ namespace Loans.Tests
            //data rollups/grouping sets
            //ranking functions
            //PA getting started
+           //PA Discoveries Dashboard
     }
     
 }
