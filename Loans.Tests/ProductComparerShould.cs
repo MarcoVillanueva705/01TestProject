@@ -232,6 +232,7 @@ namespace Loans.Tests
            //ranking functions
            //PA getting started
            //PA Discoveries Dashboard
+           //PA: Workspace panels, Ad hoc analysis and CMS 
     }
     
 }
