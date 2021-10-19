@@ -196,44 +196,45 @@ namespace Loans.Tests
             //connecting a report to a query parameter
             //Reporting Services Report Development Fundamentals - Part 1
             //Intro to SQL
-           //SELECT List wild cards
-           //SQL DISTINCT keyword
-           //WHERE clause and BOOLEANs
-           //AND & OR Operators
-           //SQL BETWEEN Operator
-           //NULL, NOT NULL, IS, LIKE and IN Operators
-           //SQL ORDER BY keyword
-           //CTE (Common Table Expressions)
-           //SET functions
-           //GROUP BY intro
-           //GROUP BY cont.
-           //HAVING SET function; GROUP BY
-           //HAVING keyword cont.
-           //CROSS, INNER, OUTER, LEFT, RIGHT JOIN
-           //OUTER and SELF JOINS
-           //CREATE DB and Tables
-           //DEMO CREATE DB, Tables and Columns
-           //CREATE, DROP, ALTER Table
-           //SQL Server Querying
-           //SQL Querying Intro to Relational DBs
-           //Table relationship types
-           //Relational DB design
-           //Orders and Products design
-           //Using SELECT statements
-           //WHERE and Predicate statements
-           //JOIN statements and syntax
-           //JOIN basics
-           //LEFT, RIGHT, INNER JOINS
-           //Sub-queries
-           //GROUP BY
-           //GROUP BY continued
-           //HAVING vs WHERE
-           //data rollups/grouping sets
-           //ranking functions
-           //PA getting started
-           //PA Discoveries Dashboard
-           //PA: Workspace panels, Ad hoc analysis and CMS 
+            //SELECT List wild cards
+            //SQL DISTINCT keyword
+            //WHERE clause and BOOLEANs
+            //AND & OR Operators
+            //SQL BETWEEN Operator
+            //NULL, NOT NULL, IS, LIKE and IN Operators
+            //SQL ORDER BY keyword
+            //CTE (Common Table Expressions)
+            //SET functions
+            //GROUP BY intro
+            //GROUP BY cont.
+            //HAVING SET function; GROUP BY
+            //HAVING keyword cont.
+            //CROSS, INNER, OUTER, LEFT, RIGHT JOIN
+            //OUTER and SELF JOINS
+            //CREATE DB and Tables
+            //DEMO CREATE DB, Tables and Columns
+            //CREATE, DROP, ALTER Table
+            //SQL Server Querying
+            //SQL Querying Intro to Relational DBs
+            //Table relationship types
+            //Relational DB design
+            //Orders and Products design
+            //Using SELECT statements
+            //WHERE and Predicate statements
+            //JOIN statements and syntax
+            //JOIN basics
+            //LEFT, RIGHT, INNER JOINS
+            //Sub-queries
+            //GROUP BY
+            //GROUP BY continued
+            //HAVING vs WHERE
+            //data rollups/grouping sets
+            //ranking functions
+            //PA getting started
+            //PA Discoveries Dashboard
+            //PA: Workspace panels, Ad hoc analysis and CMS 
+            //PA Grid drop zones, themes and runtime settings
     }
-    
+
 }
 
