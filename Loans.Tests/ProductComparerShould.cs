@@ -233,7 +233,9 @@ namespace Loans.Tests
             //PA getting started
             //PA Discoveries Dashboard
             //PA: Workspace panels, Ad hoc analysis and CMS 
-            //PA Grid drop zones, themes and runtime settings
+            //PA Walkthrough: Grid drop zones, themes and runtime settings
+            //PA Activity: Grid drop zones, themes and runtime settings
+
     }
 
 }
