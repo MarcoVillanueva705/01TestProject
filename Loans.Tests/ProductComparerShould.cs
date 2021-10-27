@@ -236,6 +236,7 @@ namespace Loans.Tests
             //PA Walkthrough: Grid drop zones, themes and runtime settings
             //PA Activity (part 1): Grid drop zones, themes and runtime settings
             //PA Activity (part 2): Grid drop zones, themes and runtime settings
+            //PA Walkthrough: Combo charts
 
 
     }
