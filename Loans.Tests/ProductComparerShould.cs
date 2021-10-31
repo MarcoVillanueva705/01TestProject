@@ -238,6 +238,7 @@ namespace Loans.Tests
             //PA Activity (part 2): Grid drop zones, themes and runtime settings
             //PA Walkthrough: Combo charts
             //PA Walkthrough: Slicers and Lollipop charts part I
+            //PA Walkthrough: Viewer Analyze Further / Discover Lite
 
 
     }
