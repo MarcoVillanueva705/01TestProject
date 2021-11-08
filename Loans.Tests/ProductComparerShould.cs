@@ -240,6 +240,7 @@ namespace Loans.Tests
             //PA Walkthrough: Slicers and Lollipop charts part I
             //PA Walkthrough: Viewer Analyze Further / Discover Lite
             //PA Dashboard Walkthrough review
+            //Filtering the displayed data
 
 
     }
