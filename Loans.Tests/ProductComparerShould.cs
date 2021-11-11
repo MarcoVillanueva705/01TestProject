@@ -241,6 +241,7 @@ namespace Loans.Tests
             //PA Walkthrough: Viewer Analyze Further / Discover Lite
             //PA Dashboard Walkthrough review
             //Filtering the displayed data
+            //PS DISTINCT statement
 
 
     }
