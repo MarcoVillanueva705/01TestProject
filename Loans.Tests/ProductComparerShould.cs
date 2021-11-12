@@ -242,6 +242,7 @@ namespace Loans.Tests
             //PA Dashboard Walkthrough review
             //Filtering the displayed data
             //PS DISTINCT statement
+            //PS Built In Functions: Date/Time
 
 
     }
