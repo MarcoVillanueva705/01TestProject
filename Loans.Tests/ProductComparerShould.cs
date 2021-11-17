@@ -244,6 +244,7 @@ namespace Loans.Tests
             //PS DISTINCT statement
             //PS Built In Functions: Date/Time
             //PS Data type conversions
+            //PS Query Plans Index vs Scan
 
 
     }
