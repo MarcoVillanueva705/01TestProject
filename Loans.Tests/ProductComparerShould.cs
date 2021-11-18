@@ -245,6 +245,7 @@ namespace Loans.Tests
             //PS Built In Functions: Date/Time
             //PS Data type conversions
             //PS Query Plans Index vs Scan
+            //PS Query Hints
 
 
     }
