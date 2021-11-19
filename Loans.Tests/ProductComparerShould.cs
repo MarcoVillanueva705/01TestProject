@@ -246,6 +246,7 @@ namespace Loans.Tests
             //PS Data type conversions
             //PS Query Plans Index vs Scan
             //PS Query Hints
+            //PS Modifying Data / Dynamic SQL
 
 
     }
