@@ -247,6 +247,7 @@ namespace Loans.Tests
             //PS Query Plans Index vs Scan
             //PS Query Hints
             //PS Modifying Data / Dynamic SQL
+            //PS UPDATE Statements
 
 
     }
