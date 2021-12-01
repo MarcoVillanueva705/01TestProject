@@ -248,6 +248,7 @@ namespace Loans.Tests
             //PS Query Hints
             //PS Modifying Data / Dynamic SQL
             //PS UPDATE Statements
+            //PS DELETE Statements
 
 
     }
