@@ -249,6 +249,7 @@ namespace Loans.Tests
             //PS Modifying Data / Dynamic SQL
             //PS UPDATE Statements
             //PS DELETE Statements
+            //PS MERGE Statements
 
 
     }
