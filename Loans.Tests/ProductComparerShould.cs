@@ -250,6 +250,7 @@ namespace Loans.Tests
             //PS UPDATE Statements
             //PS DELETE Statements
             //PS MERGE Statements
+            //PS MERGE and OUTPUT Statements
 
 
     }
