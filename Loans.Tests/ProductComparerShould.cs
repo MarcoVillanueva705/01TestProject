@@ -253,6 +253,7 @@ namespace Loans.Tests
             //PS MERGE and OUTPUT Statements
             //PS SSRS playbook
             //PS Designing and Implementing SQLTables and Views
+            //PS Creating Tables Before Demo 1
 
 
     }
