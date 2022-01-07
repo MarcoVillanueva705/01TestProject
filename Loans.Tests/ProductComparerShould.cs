@@ -259,6 +259,7 @@ namespace Loans.Tests
             //YT SQL Stored Procedures Pt.2
             //YT SQL Benefits of SPs
             //YT SQL Drawacks of SPs
+            //YT SQL SSMS Pt.1
 
 
     }
