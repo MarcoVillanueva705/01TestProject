@@ -260,6 +260,7 @@ namespace Loans.Tests
             //YT SQL Benefits of SPs
             //YT SQL Drawacks of SPs
             //YT SQL SSMS Pt.1
+            //PS SQL Intro to T-SQL
 
 
     }
