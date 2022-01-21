@@ -262,7 +262,7 @@ namespace Loans.Tests
             //YT SQL SSMS Pt.1
             //PS SQL Intro to T-SQL
             //PS SQL Intro:Group BY
-
+            //PS SQL Intro: Having BY
 
     }
 
