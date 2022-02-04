@@ -263,6 +263,7 @@ namespace Loans.Tests
             //PS SQL Intro to T-SQL
             //PS SQL Intro:Group BY
             //PS SQL Intro: Having BY
+            //PS SQL CTEs
 
     }
 
