@@ -265,6 +265,7 @@ namespace Loans.Tests
             //PS SQL Intro: Having BY
             //PS SQL CTEs
             //PS SQL SSRS Headers
+            //PS SQL Adding a Chart
 
     }
 
