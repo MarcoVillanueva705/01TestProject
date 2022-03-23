@@ -266,6 +266,7 @@ namespace Loans.Tests
             //PS SQL CTEs
             //PS SQL SSRS Headers
             //PS SQL Adding a Chart
+            //PS SQL Using Parameters in a Report
 
     }
 
