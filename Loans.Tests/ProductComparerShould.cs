@@ -268,6 +268,7 @@ namespace Loans.Tests
             //PS SQL Adding a Chart
             //PS SQL Using Parameters in a Report
             //MS Azure Explore Azure Compute Services
+            //MS Azure Express Route Fundamentals
 
     }
 
