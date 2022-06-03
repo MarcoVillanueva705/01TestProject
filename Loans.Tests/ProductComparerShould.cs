@@ -269,6 +269,7 @@ namespace Loans.Tests
             //PS SQL Using Parameters in a Report
             //MS Azure Explore Azure Compute Services
             //MS Azure Express Route Fundamentals
+            //MS Explore Azure SQL Managed Instance
 
     }
 
